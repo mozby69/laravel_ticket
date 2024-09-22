@@ -29,7 +29,7 @@
           </li>
 
           <li class="nav-item">
-            <a class="nav-link" href="#">RECORDS</a>
+            <a class="nav-link" ari-current="page" href="{{route('import_dbf_page')}}">IMPORT DBF</a>
           </li>
 
           <button type="button" class="btn btn-md px-2" data-bs-toggle="modal" data-bs-target="#logout" style="color:white;">
